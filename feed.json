@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AppleDiff",
+    "description": "",
+    "home_page_url": "https://applediff.com",
+    "feed_url": "https://applediff.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mat"
+    },
+    "items": [
+        {
+            "id": "https://applediff.com/test.html",
+            "url": "https://applediff.com/test.html",
+            "title": "Test",
+            "summary": "Allo ",
+            "content_html": "<p>Allo</p>\n",
+            "author": {
+                "name": "Mat"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-13T19:14:24-04:00",
+            "date_modified": "2021-10-13T19:14:24-04:00"
+        }
+    ]
+}
